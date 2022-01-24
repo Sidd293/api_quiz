@@ -1,0 +1,16 @@
+mini documentation
+api endpoint - https://serene-chamber-52731.herokuapp.com/
+GET - /show (https://serene-chamber-52731.herokuapp.com/show)
+      fetches all the questions 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+POST- 5 QUERIES - question answer wrong_answer1 wrong_answer2 wrong_answer3
+      query layout-    /?question=<question>?answer=<correct answer>&ans1=<wrong_option1>&ans2=<wrong_option2>&ans3=<wrong_option3>
+      example call -  https://serene-chamber-52731.herokuapp.com/?question =J.K. Rowling completed %26quot;Harry Potter and the Deathly Hallows%26quot; in which hotel in Edinburgh, Scotland?&answer=The Balmoral&ans1=The Dunstane Hotel&ans2=Hotel Novotel&ans3=Sheraton Grand Hotel
+      
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+      
+ 
+      
